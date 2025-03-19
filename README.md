@@ -33,7 +33,7 @@ The SOPP package assists astronomers in optimizing observation scheduling to mit
 ## [RF Survey](https://github.com/NSFCUSWIFTPASS/RF_survey)
 The RF Noise Survey is an open source tool developed by the WIRG lab at the University of Colorado Boulder to measure baseline radio frequency (RF) interference. This tool is designed to run on a Raspberry Pi 4 connected to an Ettus Research B200mini USRP (Software Defined Radio). It aids in understanding and improving RF spectrum sharing for both communications and scientific purposes.
 
-## Spectral Kurtosis
+## [Spectral Kurtosis](https://github.com/NSFCUSWIFTPASS/spectral_kurtosis)
 This repository contains code for implementing Frequency Separated Spectral Kurtosis (FSSK), a novel method for calculating spectral kurtosis without the need for Fast Fourier Transform (FFT) as well as three other ways of calculating spectral kurtosis. The technique, developed as part of our research, enhances real-time detection of Radio Frequency Interference (RFI) using Software Defined Radio (SDR) technology.
 
 ## 🎯 **Supported Research Projects**  
