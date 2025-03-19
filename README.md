@@ -17,7 +17,7 @@ RF spectrum is a scarce resource due to the explosion of wireless devices—some
 Traditional **Radio Quiet Zones (RQZs)** protect sensitive receivers by restricting nearby transmissions, but they waste spectrum when unused.  
 
 ### 🔹 **Radio Dynamic Zones (RDZs)**: A New Approach
-Unlike RQZs, **RDZs** protect systems **outside** the zone from powerful transmitters **inside**. This enables:  
+Unlike RQZs, RDZs protect systems outside the zone from powerful transmitters inside. This enables:  
 - **Efficient spectrum use**—spectrum is available when not in use.  
 - **Better protection**—managing high-power transmissions dynamically.  
 
