@@ -1,7 +1,7 @@
 # Welcome to WIRG!  
 
 ## About Us  
-The **Wireless Interdisciplinary Research Group (WIRG)** is part of the Computer Science Department at the **University of Colorado Boulder**. Our research focuses on improving radio frequency (RF) spectrum availability, which is essential for:  
+The [Wireless Interdisciplinary Research Group (WIRG)](https://www.colorado.edu/lab/wirg/) is a research group at the **University of Colorado Boulder**. Our research focuses on improving radio frequency (RF) spectrum availability, which is essential for:  
 - **Wireless communications** (cellular, Wi-Fi, etc.)  
 - **Weather observing** (Earth Observing Satellites - EOS)  
 - **Radio Astronomy** (scientific observations of the Universe)  
