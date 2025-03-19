@@ -28,7 +28,7 @@ We aim to maximize RF spectrum utilization through secure spectrum sharing, ensu
 
 📌 *Check out our repositories!* 🚀  
 ## [SOPP](https://pypi.org/project/sopp/)
-The SOPP package assists astronomers in optimizing observation scheduling to mitigate radio interference from satellite sources.
+The SOPP package assists astronomers in optimizing observation scheduling to mitigate radio interference from satellite sources. This is achieved by computing the positions of satellites relative to the observation facility and determining which of these satellites cause interference with the main beam during the observation.
 
 ## [RF Survey](https://github.com/NSFCUSWIFTPASS/RF_survey)
 The RF Noise Survey is an open source tool developed by the WIRG lab at the University of Colorado Boulder to measure baseline radio frequency (RF) interference. This tool is designed to run on a Raspberry Pi 4 connected to an Ettus Research B200mini USRP (Software Defined Radio). It aids in understanding and improving RF spectrum sharing for both communications and scientific purposes.
