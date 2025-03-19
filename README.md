@@ -24,6 +24,18 @@ Unlike RQZs, **RDZs** protect systems **outside** the zone from powerful transmi
 ### 🔹 **Our Mission**  
 We aim to **maximize RF spectrum utilization** through **secure spectrum sharing**, ensuring **co-existence of passive and active systems**, with a focus on **RDZs**.
 
+---
+
+📌 *Check out our repositories!* 🚀  
+## [SOPP](https://pypi.org/project/sopp/)
+The SOPP package assists astronomers in optimizing observation scheduling to mitigate radio interference from satellite sources.
+
+## [RF Survey](https://github.com/NSFCUSWIFTPASS/RF_survey)
+The RF Noise Survey is an open source tool developed by the WIRG lab at the University of Colorado Boulder to measure baseline radio frequency (RF) interference. This tool is designed to run on a Raspberry Pi 4 connected to an Ettus Research B200mini USRP (Software Defined Radio). It aids in understanding and improving RF spectrum sharing for both communications and scientific purposes.
+
+## Spectral Kurtosis
+This repository contains code for implementing Frequency Separated Spectral Kurtosis (FSSK), a novel method for calculating spectral kurtosis without the need for Fast Fourier Transform (FFT) as well as three other ways of calculating spectral kurtosis. The technique, developed as part of our research, enhances real-time detection of Radio Frequency Interference (RFI) using Software Defined Radio (SDR) technology.
+
 ## 🎯 **Supported Research Projects**  
 This work is funded by **NSF** and **NASA**, including:  
 - 🛰 **NSF PASS**: Passive and Active Spectrum Sharing (Award #2030233)  
@@ -31,6 +43,4 @@ This work is funded by **NSF** and **NASA**, including:
 - 🌌 **NSF RADYSIS**: Dynamic Satellite Interference-Mitigation & Spectrum Sharing (Award #2232368)  
 - 🌙 **NASA ExWC**: Lunar Surface Exploration Communications Testbed  
 
----
 
-📌 *For more details, check out our repositories!* 🚀  
